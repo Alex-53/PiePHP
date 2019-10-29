@@ -1,0 +1,13 @@
+{
+    "app":{
+        "title": "PiePHP",
+        "capcha_key_site": "6LfW3LgUAAAAAKrkcNlP88EcuDHNQqps2yPlgp6n",
+        "capcha_secret_key": "6LfW3LgUAAAAAI78lV2qkzBSTuqJurYXCfn_10Ig"
+    },
+    "database":{
+        "host": "localhost",
+        "user": "root",
+        "password": "Alex53maelian",
+        "dbname": "cinema"
+    }
+}
