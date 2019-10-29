@@ -12,7 +12,7 @@ class Database
 
 	private static function connect()
 	{
-			$dbcon = new \PDO("mysql:host=localhost;dbname=cinema", "root","Alex53maelian");
+			$dbcon = new \PDO("mysql:host=localhost;dbname=cinema", "root","mot_de_passe");
 			$dbcon->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 			self::$pdo = $dbcon;
 	}
